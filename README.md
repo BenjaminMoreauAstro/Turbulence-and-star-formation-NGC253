@@ -1,14 +1,12 @@
-[![Downloads](https://img.shields.io/github/downloads/DavidoTek/ProtonUp-Qt/total.svg)](https://github.com/DavidoTek/ProtonUp-Qt/releases)
-[![Flathub Downloads](https://img.shields.io/flathub/downloads/net.davidotek.pupgui2?label=Flathub%20installs)](https://flathub.org/apps/details/net.davidotek.pupgui2)
-[![License](https://img.shields.io/github/license/DavidoTek/ProtonUp-Qt)](https://github.com/DavidoTek/ProtonUp-Qt/blob/main/LICENSE)
-[![Build AppImage CI](https://github.com/DavidoTek/ProtonUp-Qt/actions/workflows/appimage-ci.yml/badge.svg)](https://github.com/DavidoTek/ProtonUp-Qt/actions/workflows/appimage-ci.yml)
+# Turbulent-Structures-in-NGC253
 
-# ProtonUp-Qt
-Install and manage [GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom) and [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) for Steam and [Wine-GE](https://github.com/GloriousEggroll/wine-ge-custom) for Lutris with this graphical user interface. Based on AUNaseef's [ProtonUp](https://github.com/AUNaseef/protonup), made with Python 3 and Qt 6.  
+## Benjamin Moreau, Elisabeth A.C. Mills
+## Department of Physics and Astronomy, University of Kansas, Lawrence, KS, 66045, USA
 
-![ProtonUp-Qt Screenshot](.github/images/pupgui2-screenshot2.png)
 
-## Disclaimer
+
+
+
 [**Affiliation Note**](https://github.com/DavidoTek/ProtonUp-Qt/pull/413): ProtonUp-Qt is an independent tool for managing gaming compatibility tools. It is neither directly affiliated with the compatibility tool creators nor with the providers of the individual game launchers. However, we try to work with them where possible.
 
 The official development takes place on GitHub at [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt), and the official website is https://davidotek.github.io/protonup-qt. We distribute ProtonUp-Qt as a Flatpak on [Flathub](https://flathub.org/apps/net.davidotek.pupgui2) and as an AppImage in the [releases section](https://github.com/DavidoTek/ProtonUp-Qt/releases) of the GitHub repository. Additionally, we check the integrity of the AUR ([`protonup-qt`](https://aur.archlinux.org/packages/protonup-qt) and [`protonup-qt-bin`](https://aur.archlinux.org/packages/protonup-qt-bin)) and [Pacstall](https://pacstall.dev/packages/protonup-qt-app) distribution on an irregular basis.

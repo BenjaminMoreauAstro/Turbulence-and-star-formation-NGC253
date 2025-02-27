@@ -1,1 +1,1 @@
-These represent the current files I used at my astro seminar presentation
+These represent the current files I used at my last seminar presentation

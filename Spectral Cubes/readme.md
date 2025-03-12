@@ -12,5 +12,5 @@ CMZ HCN 1-0, HCO+ 1-0: MOPRA 22m telescope, CMZ survey (https://atoa.atnf.csiro.
 
 CMZ CO 1-0: CfA 1.2 M telescope, COGAL survey Dame et. al 2001 https://arxiv.org/pdf/astro-ph/0009217
 
-CMZ 850um continuum, from the SCUBA surver, JCMT.
+CMZ 850um continuum, from the SCUBA survey, JCMT, https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/search.
 

@@ -15,4 +15,4 @@ CMZ CO 1-0: CfA 1.2 M telescope, COGAL survey Dame et. al 2001 https://arxiv.org
 
 CMZ 850um continuum, from the SCUBA survey, JCMT, https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/search.
 
-CMZ HCN 4-3: ASTE 10m telescope, https://www.nro.nao.ac.jp/~nro45mrt/html/results/data.html#GC (Tanaka 2018)
+CMZ HCN 4-3: ASTE 10m telescope, https://www.nro.nao.ac.jp/~nro45mrt/html/results/data.html#GC (Tanaka 2018) (Note that the FOV has holes and is only ~70x290 pc)

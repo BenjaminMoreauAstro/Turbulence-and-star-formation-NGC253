@@ -3,7 +3,7 @@ Keep all the subcube files in here. They come from:
 NGC253 HCN 4-3, HCO+ 4-3, CO 3-2: ALMA Band 7 (obs by Alberto Bolatto)
 
 NGC253 HCN 1-0, HCO+ 1-0, H13CN 1-0, H13CO 1-0, SiO 2-1: ALMA Band 3 (obs by Betsy Mills)
-CO 1-0, (Band 3, observed 2018-10-22)
+CO 1-0, (Band 3, observed 2018-10-22 (possibly by Bolatto 2013a but then reformed)
 
 NGC253 850um continuum is the ALMA Band 7 continuum
 

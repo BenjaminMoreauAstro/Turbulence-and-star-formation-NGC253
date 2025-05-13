@@ -5,6 +5,6 @@
 
 Dense Molecular Structures, Turbulence and Star Formation in NGC253 and The Milky Way
 
-The code to reduce data cubes for lines from CO to SiO (sources in Spectral Cubes readme), calculate dendrogram, create size-linewidth for NGC253 and the CMZ.
+The code to reduce data cubes (1a through 1m) )for lines from CO to SiO (sources in Spectral Cubes' readme), calculate dendrograms (2a through 2m) , create size-linewidth for NGC253 and the CMZ (3a through 5a).
 
 Link to the paper: https://www.overleaf.com/read/cbrbffdbvkcp#a700ac

@@ -9,4 +9,4 @@ The code to reduce data cubes (1a through 1m) )for lines from CO to SiO (sources
 
 Ran in jupyter-lab, python 3.8. All the packages used are listed at the beggining of each notebook.
 
-Link to the paper: https://www.overleaf.com/read/cbrbffdbvkcp#a700ac
+Link to the paper: https://www.overleaf.com/read/jjwyttmtrfvk#7e9074
